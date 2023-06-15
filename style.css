@@ -3,9 +3,13 @@
     padding: 0;
 }
 
+body {
+    font-family: "Montserrat",sans-serif;
+}
+
 .header{
  background: #bbbbbb;
- padding 20px 0;
+ padding: 20px 0;
 }
 
 .caixa {
